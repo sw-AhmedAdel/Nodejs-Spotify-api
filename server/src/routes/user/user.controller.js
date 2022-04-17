@@ -9,7 +9,7 @@ const {
 } = require('../../models/user.models');
 const sendCookieVieRespond = require('../../authController/cookie');
 const appError = require('../../handelErros/class.handel.errors');
-//const {FindMovie} = require('../../models/movie.models');
+ 
 const {filterData} = require('../../services/query')
  
 async function httpMyProfile (req ,res ,next) {
