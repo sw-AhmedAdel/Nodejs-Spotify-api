@@ -1,8 +1,9 @@
 designed an algorithm for 
- Creating a database and crud operations for users, songs, playlists.
- Implemented signup, login, logout, express errors middleware.Forgot reset update password, sending 
+
+ 1-Creating a database and crud operations for users, songs, playlists.
+ 2-Implemented signup, login, logout, express errors middleware.Forgot reset update password, sending 
  emails, filter queries.
- Crud  operations for users, songs, playlists.
- Users can like songs,
- Get songs that users liked.
- Get all the songs that the user stores in a playlist.
+ 3-Crud  operations for users, songs, playlists.
+ 4-Users can like songs,
+ 5-Get songs that users liked.
+ 6-Get all the songs that the user stores in a playlist.
